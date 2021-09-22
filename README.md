@@ -14,7 +14,7 @@ TOC
 | Git clone                                                                                                                                                                                                                                                                  |
 | - introduction to github interface<br>- protocols HTTPS and SSH<br>- git clone <br>- git push<br>- git pull                                                                                                                                                                |
 -----
-Week05_Day05_MVCProject (Draft)
+# Week05_Day05_MVCProject
 
 
 ![](https://paper-attachments.dropbox.com/s_0D83677DA2361FF06005508CF783B770B0850A1F7D5189177C2769198E3AE90A_1622061898654_fork.png)
