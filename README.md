@@ -32,6 +32,8 @@ Version control! As developers our code is our livelihood so it's important that
 
 
 ### Staging 
+A staging step in git allows you to continue making changes to the working directory, and when you decide you wanna interact with version control, it allows you to record changes in small commits. ... Separating staging and committing, you get the chance to easily customize what goes into a commit.
+
 ![](https://uc2d491ec0a8a1c333f6a6d728c0.previews.dropboxusercontent.com/p/thumb/ABSZ74Mdg8XU4GhxbaleqI-t0MxKGKsOSDjEMV8u6CfEUqbdXC5-ksFjRpz1-N_RuIPtzedBqDKNNiHYmbtEYwxHUCCJfW3vCBDIJWEx0EjIpBtAMyRIZRCLAQRozWpbJpY1kuvWIzJD01x0Puaif4crIyDblddj64yK6UHeub5JzFo6m57vYwR4Dxj9BVH96j7POvnpMbKzkbGBhCR-8eyrRcr_ukRT09hrFaRShL1IVHwhV67LRaaTmoyLyaJWMvidg3dphk4rcCtDuce-KIox3GEdElnWND1v0EAakWSswnJNd_4CqZ1WnS062p0P_pe_sYZex6m9hc1hw_fZs5en9VySRVDPq0JiB-KZxf5WDKEFyUxtTTNsRd0iVIbpNZ5ZuHsLLXfkM_vNlK3gqm6dI95X6HKnfZY8ljWukNGZqrbquTfBvF-9S2m0CVSMLlvpEF6SVX1vjxd_-9VbN4SpYQQ3m2ji3Z5QZX-GbK8I__iG7RmqRah_PHw4dqogtmUNyZ4-q6yLRUYKAdY5EWYJb_PWDj28HIYOnJ_ZhupFWdRwRfVzNBmsIQBrJZxGzEkhLdlEdjrhR7KweithWrskOgoijnD_DiiYiANSDCrnKg/p.jpeg)
 
 
