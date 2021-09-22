@@ -33,7 +33,7 @@ Version control! As developers our code is our livelihood so it's important that
 
 
 
-Git Best Practices
+### Git Best Practices
 
 
 
